@@ -144,12 +144,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
     <ClCompile Include="Steganography.cpp" />
+    <ClCompile Include="test\test.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="lodepng.hpp" />
     <ClInclude Include="Steganography.h" />
+    <ClInclude Include="test\lodepng.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
