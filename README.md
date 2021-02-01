@@ -16,7 +16,7 @@ unsigned char* GetTextFromImage(unsigned char* img, unsigned int img_size, unsig
 ~ **REMEMBER TO FREE OUTPUT**
 
 ## Example
-Look in **test/test.cpp** for an example.
+Look in **Steganography/test/test.cpp** for an example.
 
 ## License
 Copyright 2021 Daniel Doych
